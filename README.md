@@ -19,7 +19,7 @@ Os conteúdos listados aqui refletem minha formação contínua e meu foco em co
 
 - **Figma Aplicado**  
   Escola Britânica de Artes Criativas e Tecnologia  
-  Conclusão prevista: Março de 2026  
+  Conclusão: Fevereiro de 2026
 
 ---
 
