@@ -21,21 +21,38 @@ Os conteúdos listados aqui refletem minha formação contínua e meu foco em co
   Escola Britânica de Artes Criativas e Tecnologia  
   Conclusão: Fevereiro de 2026
 
+- **CANVAS UX e Ferramentas**
+  Salvador Tech  
+  Conclusão: Fevereiro de 2026
+
 ---
 
 ### Desenvolvimento e Tecnologia
 
 - **Design ao Desenvolvimento**  
   DevArt  
-  Conclusão: Novembro de 2025  
+  Conclusão: Novembro de 2025
+
+  - **Curso de React Aplicado**  
+  Salvador Tech  
+  Conclusão prevista: Abril de 2026  
 
 - **Curso de JavaScript**  
   Salvador Tech  
   Conclusão prevista: Março de 2026  
 
-- **Curso Full Stack Web com Node, JavaScript e TypeScript**  
+- **Curso Full Stack Web com HTML, CSS, Node, JavaScript e TypeScript**  
   Udemy  
-  Status: Em andamento (2026)  
+  Status: Em andamento (2026)
+  
+- **Segurança em Redes e LGPD**
+  Salvador Tech  
+  Conclusão: Fevereiro de 2026
+
+  - **Curso de Banco de Dados**
+  Salvador Tech  
+  Conclusão: Abril de 2026
+
 
 ---
 
@@ -70,7 +87,11 @@ The listed content represents my continuous learning process and my commitment t
 
 - **Applied Figma**  
   British School of Creative Arts and Technology  
-  Expected completion: March 2026  
+  Completion: February 2026  
+
+- **UX Canvas and Tools**  
+  Salvador Tech  
+  Completion: February 2026  
 
 ---
 
@@ -80,13 +101,33 @@ The listed content represents my continuous learning process and my commitment t
   DevArt  
   Completion: November 2025  
 
+- **Applied React Course**  
+  Salvador Tech  
+  Expected completion: April 2026  
+
 - **JavaScript Course**  
   Salvador Tech  
   Expected completion: March 2026  
 
-- **Full Stack Web Development with Node, JavaScript and TypeScript**  
+- **Full Stack Web Course with HTML, CSS, Node, JavaScript, and TypeScript**  
   Udemy  
   Status: In progress (2026)  
+
+- **Network Security and LGPD**  
+  Salvador Tech  
+  Completion: February 2026  
+
+- **Database Course**  
+  Salvador Tech  
+  Completion: April 2026  
+
+---
+
+### Artificial Intelligence
+
+- **Artificial Intelligence Course**  
+  British School of Creative Arts and Technology  
+  Status: In progress 
 
 ---
 
