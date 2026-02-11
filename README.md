@@ -33,7 +33,7 @@ Os conteúdos listados aqui refletem minha formação contínua e meu foco em co
   DevArt  
   Conclusão: Novembro de 2025
 
-  - **Curso de React Aplicado**  
+- **Curso de React Aplicado**  
   Salvador Tech  
   Conclusão prevista: Abril de 2026  
 
@@ -49,7 +49,7 @@ Os conteúdos listados aqui refletem minha formação contínua e meu foco em co
   Salvador Tech  
   Conclusão: Fevereiro de 2026
 
-  - **Curso de Banco de Dados**
+- **Curso de Banco de Dados**
   Salvador Tech  
   Conclusão: Abril de 2026
 
